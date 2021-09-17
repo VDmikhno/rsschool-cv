@@ -8,3 +8,15 @@
  I figure out one thing that i love programming. Because i loved solving tasks. I took participant in chemistry olympiad in school. It was like battle of wits between pupils. I was good in it. Second degree diploma on republic stage is confirmation of this. Then there was study in BSU (Chemistry faculty) and work in Belaruskaliy.
 
  I realized that I dont want to work there because it was brainless job. I quit my job and decided to learn JavaScript. I will do my best to learn it and keep learning.
+ 
+ ## Skills:
+ * HTML Basics, CSS Basics 
+ * JavaScript Basics
+ * Git, GitHub
+ * VSCode
+
+ ## Education:
+ * Specialist, Belarusian State University, Minsk 
+    * _Chemistry faculty_
+ * Reserve officer, Belarusian State University, Minsk
+    * _Military department_
