@@ -9,21 +9,21 @@
 
  I realized that I dont want to work there because it was brainless job. I quit my job and decided to learn JavaScript. I will do my best to learn it and keep learning.
  
- ## Skills:
+## Skills:
  * HTML Basics, CSS Basics 
  * JavaScript Basics
  * Git, GitHub
  * VSCode
 
- ## Education:
- * Specialist, Belarusian State University, Minsk 
+## Education:
+* Specialist, Belarusian State University, Minsk 
     * _Chemistry faculty_
- * Reserve officer, Belarusian State University, Minsk
+* Reserve officer, Belarusian State University, Minsk
     * _Military department_
 ## Work experience:
 None in the field of Information technology
 
- ## Code example:
+## Code example:
  ```JavaScript
  function getMiddle(s)
 {if (s.length === 1) {
