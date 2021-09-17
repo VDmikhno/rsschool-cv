@@ -20,6 +20,7 @@
     * _Chemistry faculty_
  * Reserve officer, Belarusian State University, Minsk
     * _Military department_
+
 ## Work experience:
  None in the field of Information technology
 
