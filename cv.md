@@ -16,24 +16,24 @@
  * VSCode
 
 ## Education:
-* Specialist, Belarusian State University, Minsk 
+ * Specialist, Belarusian State University, Minsk 
     * _Chemistry faculty_
-* Reserve officer, Belarusian State University, Minsk
+ * Reserve officer, Belarusian State University, Minsk
     * _Military department_
 ## Work experience:
-None in the field of Information technology
+ None in the field of Information technology
 
 ## Code example:
  ```JavaScript
  function getMiddle(s)
-{if (s.length === 1) {
+  {if (s.length === 1) {
   return s;
-} else if (s.length % 2 === 0) {
+  } else if (s.length % 2 === 0) {
   return `${s[s.length / 2 - 1]}${s[s.length / 2]}`;
-} else {
+  } else {
   return `${s[(s.length - 1) /2]}`;
-}
-};
+  }
+ };
 ```
 
 ## Languages:
