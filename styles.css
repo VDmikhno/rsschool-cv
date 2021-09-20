@@ -1,0 +1,9 @@
+body {
+    margin: 0 auto;
+    width: 720px;
+    height: 1024px;
+}
+
+.avatar {
+    width: 100%;
+}
