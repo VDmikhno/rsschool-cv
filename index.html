@@ -6,6 +6,9 @@
     <title>CV Uladzislau Mikhno</title>
     <link rel="stylesheet" href="styles/styles.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.9/styles/default.min.css">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.9/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
   </head>
   <body>
    <div class="container">  
@@ -86,6 +89,21 @@
                     <li>Russian - Native</li>
                 </ul>
 
+            </div>
+            <div class="code">
+                <h3>Code example</h3>
+                <div class="line"></div>
+                <pre><code>
+                    function getMiddle(s) {
+                        if (s.length === 1) {
+                        return s;
+                        } else if (s.length % 2 === 0) {
+                        return `${s[s.length / 2 - 1]}${s[s.length / 2]}`;
+                        } else {
+                        return `${s[(s.length - 1) /2]}`;
+                        }
+                    };
+                </code></pre>
             </div>
             
             
