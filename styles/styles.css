@@ -1,0 +1,72 @@
+*{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {    
+    background: rgb(230, 207, 207);
+}
+
+.container { 
+    max-width: 1024px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+.avatar {
+    width: 70%;
+}
+
+.avatar img {
+    width: 100%;
+}
+
+.main-information {
+    background: rgb(224, 183, 183);
+    width: 40%;
+    display: flex;
+    flex-direction: column; 
+    padding: 1rem;   
+}
+
+.cv {
+    display: flex;
+    margin: auto;
+    width: 100%;
+}
+
+h1,
+h2,
+h3 {
+    text-align: center;
+}
+
+.about-me {
+    background: rgb(255, 255, 255);
+    width: 60%;
+    padding: 1rem;
+}
+
+.line {
+    background: rgb(0, 0, 0);
+    height: 0.1rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
+
+footer {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background: rgb(236, 149, 149);
+    font-size: 3rem;
+    padding: 0.4rem;
+    margin: auto;
+}
+
+.logo {
+    width: 100px;
+}
+
+
