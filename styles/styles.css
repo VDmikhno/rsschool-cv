@@ -68,3 +68,18 @@ footer {
 .logo {
     width: 100px;
 }
+
+@media (max-width: 670px) {
+    .cv {
+        flex-direction: column;
+    }
+
+    .about-me {
+        width: 100%;
+    }
+
+    .main-information {
+        width: 100%;
+    }
+    
+}
